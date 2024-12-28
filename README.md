@@ -19,7 +19,7 @@ This project simulates two traffic lights at an intersection using a PIC16F887 m
 *Circuit setup.*
 
 ## Timeline
-![timeline](timeline.png)  
+![timeline](circuit/timeline.png)  
 
 ## Files
 - `two_traffic_light.pdsprj`: Circuit schematic for the traffic light system.
